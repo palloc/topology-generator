@@ -14,6 +14,8 @@ Logical topology is generated with ip addresses and routing protocols on capture
 Comming soon!!
 
 ## techs
+- python 3 seriese
+
 ### backend
 - scapy
 - mysql
